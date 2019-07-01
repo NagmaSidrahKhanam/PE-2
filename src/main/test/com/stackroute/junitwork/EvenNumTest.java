@@ -21,19 +21,21 @@ public class EvenNumTest {
     public void isEven() {
         assertTrue(evenNum.isEven(312));
     }
+
     @Test
     public void isOdd() {
         boolean expectedValue=false;
         boolean actualValue=evenNum.isEven(313);
         assertEquals(expectedValue,actualValue);
-
     }
+
     @Test
     public void isNotOdd() {
         boolean expectedValue=false;
         boolean actualValue=evenNum.isEven(312);
         assertNotEquals(expectedValue,actualValue);
     }
+
     @Test
     public void isNotEven() {
         boolean expectedValue=true;

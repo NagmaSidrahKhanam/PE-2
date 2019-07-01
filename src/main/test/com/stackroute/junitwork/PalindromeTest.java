@@ -1,28 +1,27 @@
 package com.stackroute.junitwork;
-import org.junit.*;
 
 import static org.junit.Assert.*;
-
-public class ReverseTheStringTest {
-    private ReverseTheString palindrome;
+import org.junit.*;
+public class PalindromeTest {
+    private Palindrome palindrome;
     private String s;
 
     @Before
     public void setUp() throws Exception {
 
 
-        palindrome = new ReverseTheString();
+        palindrome = new Palindrome();
 
     }
 
     @After
-    public void tearDown() throws Exception {
+    public void tearDown()  {
 
     }
 
 
     @Test
-    public void emptyStringTest() throws Exception {
+    public void emptyStringTest() {
 
         Boolean expectedValue = true;
 
@@ -32,7 +31,7 @@ public class ReverseTheStringTest {
     }
 
     @Test
-    public void multipleWhiteSpaceTest() throws Exception {
+    public void multipleWhiteSpaceTest() {
         Boolean expectedValue = true;
 
         Boolean actualValue = palindrome.checkPalindrome("str ess edde sse rts");
@@ -42,7 +41,7 @@ public class ReverseTheStringTest {
     }
 
     @Test
-    public void singleCharTest() throws Exception {
+    public void singleCharTest() {
         Boolean expectedValue = true;
 
         Boolean actualValue = palindrome.checkPalindrome("U");
@@ -51,31 +50,14 @@ public class ReverseTheStringTest {
 
     }
 
-    @Test
-    public void punctuationTest() throws Exception {
-        Boolean expectedValue = false;
-
-        Boolean actualValue = palindrome.checkPalindrome("Hey, how are you?");
-        assertEquals(expectedValue, actualValue);
 
 
-    }
-
-    @Test
-    public void unicodeTest() throws Exception {
-        Boolean expectedValue = false;
-
-        Boolean actualValue = palindrome.checkPalindrome("\\u0048\\u0065\\u006C\\u006C\\u006F World");
-        assertEquals(expectedValue, actualValue);
-
-
-    }
 
     @Test
     public void alphaNumericPalindromeTest() throws Exception {
         Boolean expectedValue = true;
 
-        Boolean actualValue = palindrome.checkPalindrome("My5 g 5ym");
+        Boolean actualValue = palindrome.checkPalindrome("Ap6 6pA");
         assertEquals(expectedValue, actualValue);
 
     }
@@ -85,7 +67,7 @@ public class ReverseTheStringTest {
 
         Boolean expectedValue = true;
 
-        Boolean actualValue = palindrome.checkPalindrome("No pot top on");
+        Boolean actualValue = palindrome.checkPalindrome("ab cde edc ba");
         assertEquals(expectedValue, actualValue);
 
     }
@@ -94,7 +76,7 @@ public class ReverseTheStringTest {
     public void invalidPalindromeTest() throws Exception {
         Boolean expectedValue = false;
 
-        Boolean actualValue = palindrome.checkPalindrome("I am good");
+        Boolean actualValue = palindrome.checkPalindrome("abc def");
         assertEquals(expectedValue, actualValue);
 
 

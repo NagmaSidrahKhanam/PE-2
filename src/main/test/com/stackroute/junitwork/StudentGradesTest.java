@@ -27,7 +27,7 @@ public class StudentGradesTest {
     }
     @Test
     public void averageExceeded() {
-        int inputArray[]={25,25,101,25};
+        int inputArray[]={25,25,111,25};
         assertNotNull("Null is not Expected!",obj.average(inputArray));
     }
 

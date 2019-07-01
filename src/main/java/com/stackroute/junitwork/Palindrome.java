@@ -1,6 +1,6 @@
 package com.stackroute.junitwork;
 
-public class ReverseTheString {
+public class Palindrome {
     public boolean checkPalindrome(String s)
     {
         String reverseString="";
@@ -8,5 +8,5 @@ public class ReverseTheString {
             reverseString=ch+reverseString;
         }
         return s.equalsIgnoreCase(reverseString);
-}
+    }
 }

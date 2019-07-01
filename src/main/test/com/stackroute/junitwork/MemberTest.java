@@ -37,10 +37,10 @@ public class MemberTest {
     @Test
     public void FirstPalindromeSuccess() {
         //Arrange
-        String [] expectedValue = {"Harry Potter", "30", "2500.3"};
+        String [] expectedValue = {"henry", "29", "2440.3"};
 
         //Act
-        String [] actualValue = app2.isMember("Harry Potter",30,2500.3);
+        String [] actualValue = app2.isMember("henry",29,2440);
         //Assert
         assertArrayEquals(expectedValue, actualValue);
 

@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c8dc19b-7b0b-4798-bb00-5956945123d0" name="Default Changelist" comment="" />
+    <list default="true" id="7c8dc19b-7b0b-4798-bb00-5956945123d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE2/com/stackroute/junitwork/Question3$MemberVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE2/com/stackroute/junitwork/Question3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE2/com/stackroute/junitwork/Question6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE2/com/stackroute/junitwork/ReverseTheString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PE2/com/stackroute/junitwork/Question3Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PE2/com/stackroute/junitwork/Question6Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PE2/com/stackroute/junitwork/ReverseTheStringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/ReverseTheString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/EvenNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/EvenNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/MemberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/MemberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/PowerOfFourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/PowerOfFourTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/ReverseTheStringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/StudentGradesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/StudentGradesTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,15 +34,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/ReverseTheString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/PowerOfFour.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -36,31 +44,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/StudentGrades.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/StudentGradesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+            <state relative-caret-position="327">
+              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/Factorial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -80,20 +70,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/EvenNumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="276">
+              <caret line="40" column="34" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/PowerOfFourTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="357">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/MemberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="208">
+              <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,13 +106,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/ReverseTheStringTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="119">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/PalindromeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="78" column="65" selection-start-line="78" selection-start-column="65" selection-end-line="78" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/EvenNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -135,6 +145,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -144,33 +157,41 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/Question2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/Question3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/EvenNum.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/EvenNumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/Question6.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/Question7.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/Factorial.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/FactorialTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/ReverseTheString.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/ReverseTheStringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/PowerOfFour.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/PowerOfFourTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/Question3Test.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/MemberTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/Question6Test.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/ReverseTheStringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/PalindromeString.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/PalindromeStringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/ReverseStringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/EvenNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/MemberTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/StudentGradesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/PowerOfFourTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="133" />
     <option name="y" value="47" />
     <option name="width" value="1400" />
     <option name="height" value="833" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,11 +282,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -293,22 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EvenNumTest">
-    <configuration name="EvenNumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.junitwork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.junitwork" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitwork.EvenNumTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.PalindromeTest.punctuationTest">
     <configuration name="FactorialTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE2" />
       <extension name="coverage">
@@ -320,6 +325,38 @@
       <option name="PACKAGE_NAME" value="com.stackroute.junitwork" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.junitwork.FactorialTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeTest.emptyStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.junitwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.junitwork" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitwork.PalindromeTest" />
+      <option name="METHOD_NAME" value="emptyStringTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeTest.punctuationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.junitwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.junitwork" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitwork.PalindromeTest" />
+      <option name="METHOD_NAME" value="punctuationTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -339,7 +376,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseTheStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE2" />
       <extension name="coverage">
         <pattern>
@@ -348,22 +385,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.junitwork" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitwork.ReverseTheStringTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentGradesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.junitwork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.junitwork" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitwork.StudentGradesTest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.junitwork.ReverseStringTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -371,11 +393,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PalindromeTest.punctuationTest" />
+        <item itemvalue="JUnit.PalindromeTest.emptyStringTest" />
+        <item itemvalue="JUnit.ReverseStringTest" />
         <item itemvalue="JUnit.PowerOfFourTest" />
-        <item itemvalue="JUnit.ReverseTheStringTest" />
         <item itemvalue="JUnit.FactorialTest" />
-        <item itemvalue="JUnit.StudentGradesTest" />
-        <item itemvalue="JUnit.EvenNumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -393,18 +415,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EvenNumTest - 2019.06.30 at 00h 27m 15s.xml">
-      <configuration name="EvenNumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EvenNumTest - 2019.06.30 at 00h 27m 48s.xml">
-      <configuration name="EvenNumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Question6Test - 2019.06.30 at 00h 32m 13s.xml">
-      <configuration name="Question6Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Question2Test - 2019.06.30 at 00h 32m 31s.xml">
-      <configuration name="Question2Test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Question1Test - 2019.06.30 at 00h 32m 42s.xml">
       <configuration name="Question1Test" configurationId="JUnit" />
     </history-entry>
@@ -423,6 +433,18 @@
     <history-entry file="PowerOfFourTest - 2019.06.30 at 13h 03m 32s.xml">
       <configuration name="PowerOfFourTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PalindromeStringTest - 2019.07.01 at 12h 22m 00s.xml">
+      <configuration name="PalindromeStringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeStringTest - 2019.07.01 at 12h 30m 19s.xml">
+      <configuration name="PalindromeStringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeTest_emptyStringTest - 2019.07.01 at 14h 58m 25s.xml">
+      <configuration name="PalindromeTest.emptyStringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeTest_punctuationTest - 2019.07.01 at 15h 02m 29s.xml">
+      <configuration name="PalindromeTest.punctuationTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -434,10 +456,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1533" height="875" extended-state="7" />
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49800798" visible="true" weight="0.25622058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49800798" visible="true" weight="0.25958306" />
       <window_info id="Structure" order="1" sideWeight="0.50199205" side_tool="true" weight="0.2528581" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -446,7 +468,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50199205" side_tool="true" weight="0.2528581" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.328877" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32841823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973262" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -480,20 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/EvenNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/PowerOfFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/StudentGrades.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -508,20 +516,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/PowerOfFourTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/ReverseString.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/ReverseStringTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/PowerOfFour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/EvenNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/EvenNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="276">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/MemberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -538,40 +571,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/MemberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/StudentGradesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        <state relative-caret-position="327">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/ReverseTheStringTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/PalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="357">
+          <caret line="78" column="65" selection-start-line="78" selection-start-column="65" selection-end-line="78" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/junitwork/ReverseTheString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/junitwork/PowerOfFourTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="357">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

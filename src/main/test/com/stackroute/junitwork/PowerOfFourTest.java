@@ -11,7 +11,7 @@ public class PowerOfFourTest {
     private int num;
 
     @Before
-    public void setUp() throws Exception {
+    public void setUp() {
 
 
         power = new PowerOfFour();
@@ -19,13 +19,13 @@ public class PowerOfFourTest {
     }
 
     @After
-    public void tearDown() throws Exception {
+    public void tearDown() {
 
     }
 
 
     @Test
-    public void validPower() throws Exception {
+    public void validPower() {
 
         Boolean expectedValue =true;
 
@@ -34,11 +34,11 @@ public class PowerOfFourTest {
 
     }
     @Test
-    public void invalidPower() throws Exception {
+    public void invalidPower() {
 
         Boolean expectedValue =false;
 
-        Boolean actualValue = power.isPower(43);
+        Boolean actualValue = power.isPower(32);
         assertEquals(expectedValue, actualValue);
 
     }
