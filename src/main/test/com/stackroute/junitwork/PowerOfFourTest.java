@@ -27,16 +27,17 @@ public class PowerOfFourTest {
     @Test
     public void validPower() {
 
-        Boolean expectedValue =true;
+        Boolean expectedValue = true;
 
         Boolean actualValue = power.isPower(16);
         assertEquals(expectedValue, actualValue);
 
     }
+
     @Test
     public void invalidPower() {
 
-        Boolean expectedValue =false;
+        Boolean expectedValue = false;
 
         Boolean actualValue = power.isPower(32);
         assertEquals(expectedValue, actualValue);

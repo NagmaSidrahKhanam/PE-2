@@ -22,4 +22,7 @@ public class FactorialTest {
         assertEquals(1,Factorial.longFactorial(0));
 
     }
+
+
+
 }

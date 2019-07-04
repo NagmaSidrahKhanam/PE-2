@@ -1,8 +1,8 @@
 package com.stackroute.junitwork;
 
-import static org.junit.Assert.*;
-import org.junit.*;
-public class PalindromeTest {
+    import static org.junit.Assert.*;
+    import org.junit.*;
+    public class PalindromeTest {
     private Palindrome palindrome;
     private String s;
 
